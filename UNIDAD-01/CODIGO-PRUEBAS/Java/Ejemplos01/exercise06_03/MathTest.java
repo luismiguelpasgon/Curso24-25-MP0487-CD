@@ -24,6 +24,8 @@ public class MathTest {
       System.out.printf("Math.sin(0.0) = %f%n", Math.sin(0.0));
       System.out.printf("Math.sqrt(900.0) = %f%n", Math.sqrt(900.0));
       System.out.printf("Math.tan(0.0) = %f%n", Math.tan(0.0));
+      /* 06-11-2024 Luis Miguel Pastoriza Gonzalez: Modifico el codigo java a petición del ejercicio 4.*/
+      System.out.printf("Hola!!!! Estoy modificando el código.");
    } 
 } 
 
